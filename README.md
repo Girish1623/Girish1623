@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Girish Posture 👋
 
-<!--
-**Girish1623/Girish1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Full-Stack Developer** | MERN Stack Enthusiast | Open Source Contributor  
 
-Here are some ideas to get you started:
+💻 Currently learning and building projects with:  
+- **JavaScript, React, Node.js, MongoDB**  
+- **HTML, CSS, Tailwind**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Open to collaborate with @GitHub and fellow developers on exciting projects.  
+
+🔗 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/girish-posture-148409374)  
+- [GitHub](https://github.com/MGirish1623)  
+- [Portfolio](#)  
